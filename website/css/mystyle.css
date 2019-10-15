@@ -1,0 +1,40 @@
+.top_bar{
+	background:#f26522; 
+	padding:2px;
+}
+.social_icon{
+	margin-right:5px;
+}
+.contact_info{
+	color:#fff;
+	font-size:16px;
+}
+
+
+
+
+.footer{
+	background-color:#D3D3D3;
+}
+.my_menu{
+	margin-top:27px;
+}
+.my_menu .navbar-default{
+	background:none;
+	border:none;
+}
+.my_menu .navbar-nav .active a,.my_menu .navbar-nav .active a:hover {
+	background:#f26522; color:white;
+}
+.my_menu .navbar-nav li a:hover{
+	background:#f26522; color:white;
+}
+.my_image{
+	margin:50px 50px 50px 50px;
+}
+.my_para{
+	margin:50px 50px 50px 50px;
+}
+.my_head{
+	color:#FF0000;
+}
